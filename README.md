@@ -7,7 +7,7 @@ Each city type had many differences. The Urban city type had significantly more 
 
 On the other hand Rural areas had the least amount of riders and drivers, but had the highest average fare per ride and per driver. Although it still had the lowest total fares.
 
-![Summary of data](https://github.com/lbp12/PyBer_Analysis/blob/main/analysis/Fig11.png)
+![Summary of data](https://github.com/lbp12/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 This was the similar case when looking at the weekly total fare by city type. Urban has the most fares collected over this period of time, while Rural is the lowest.
 
