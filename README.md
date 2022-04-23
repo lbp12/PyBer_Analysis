@@ -11,7 +11,7 @@ On the other hand Rural areas had the least amount of riders and drivers, but ha
 
 This was the similar case when looking at the weekly total fare by city type. Urban has the most fares collected over this period of time, while Rural is the lowest.
 
-![Weekly Fares](https://github.com/lbp12/PyBer_Analysis/blob/main/analysis/Fig11.png)
+![Weekly Fares](https://github.com/lbp12/PyBer_Analysis/blob/main/analysis/Fig10.png)
 
 ## Summary
 A few recomendations for the CEO:
